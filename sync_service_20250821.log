@@ -1,0 +1,299 @@
+2025-08-21 09:05:19 - src.logger - INFO - Logging initialized
+2025-08-21 09:05:21 - src.logger - INFO - Scheduling daily sync at 02:00
+2025-08-21 09:05:23 - src.logger - INFO - Scheduler started. Press Ctrl+C to stop.
+2025-08-21 09:06:35 - src.logger - INFO - Logging initialized
+2025-08-21 09:06:38 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:06:41 - src.logger - INFO - Logging initialized
+2025-08-21 09:06:42 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:06:53 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:06:54 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:07:14 - src.admin_panel_client - ERROR - Failed to parse contacts data: 2 validation errors for AdminPanelUser
+vorname
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+name
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:07:14 - src.sync_service - ERROR - Synchronization failed: 2 validation errors for AdminPanelUser
+vorname
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+name
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:07:14 - src.logger - ERROR - Sync failed: 2 validation errors for AdminPanelUser
+vorname
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+name
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:07:24 - src.logger - INFO - Logging initialized
+2025-08-21 09:07:24 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:07:32 - src.logger - INFO - Logging initialized
+2025-08-21 09:07:32 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:07:32 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:07:32 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:14:44 - src.logger - INFO - Logging initialized
+2025-08-21 09:14:44 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:14:44 - src.logger - INFO - Logging initialized
+2025-08-21 09:14:44 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:14:44 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:14:44 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:16:51 - src.admin_panel_client - ERROR - Failed to parse contacts data: 1 validation error for AdminPanelUser
+uStID
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:16:51 - src.sync_service - ERROR - Synchronization failed: 1 validation error for AdminPanelUser
+uStID
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:16:51 - src.logger - ERROR - Sync failed: 1 validation error for AdminPanelUser
+uStID
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.5/v/string_type
+2025-08-21 09:18:05 - src.logger - INFO - Logging initialized
+2025-08-21 09:18:05 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:18:05 - src.logger - INFO - Logging initialized
+2025-08-21 09:18:05 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:18:05 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:18:05 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:18:14 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:18:23 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:18:49 - src.shopware_client - ERROR - Failed to create customer florian.lenz@einrichtungspartnerring.com: 400 Client Error: Bad Request for url: https://spotmarkt.meinvme.de/api/customer
+2025-08-21 09:19:09 - src.logger - INFO - Logging initialized
+2025-08-21 09:19:09 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:19:09 - src.logger - INFO - Logging initialized
+2025-08-21 09:19:09 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:19:09 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:19:09 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:19:16 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:19:16 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:23:28 - src.logger - INFO - Logging initialized
+2025-08-21 09:23:28 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:23:28 - src.logger - INFO - Logging initialized
+2025-08-21 09:23:28 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:23:28 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:23:28 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:23:29 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:23:29 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:24:35 - src.logger - INFO - Logging initialized
+2025-08-21 09:24:35 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:24:35 - src.logger - INFO - Logging initialized
+2025-08-21 09:24:35 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:24:35 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:24:35 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:24:36 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:24:36 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:24:51 - src.logger - INFO - Logging initialized
+2025-08-21 09:24:51 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:24:51 - src.logger - INFO - Logging initialized
+2025-08-21 09:24:51 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:24:51 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:24:51 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:24:52 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:24:52 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:26:53 - src.logger - INFO - Logging initialized
+2025-08-21 09:26:53 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:26:53 - src.logger - INFO - Logging initialized
+2025-08-21 09:26:53 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:26:53 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:26:53 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:26:53 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:26:53 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 09:27:49 - src.logger - INFO - Logging initialized
+2025-08-21 09:27:49 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 09:27:49 - src.logger - INFO - Logging initialized
+2025-08-21 09:27:49 - src.logger - INFO - Initializing sync service...
+2025-08-21 09:27:50 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 09:27:50 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 09:27:50 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 09:27:50 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:04:13 - src.logger - INFO - Logging initialized
+2025-08-21 10:04:13 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:04:14 - src.logger - INFO - Logging initialized
+2025-08-21 10:04:14 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:04:14 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:04:14 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:04:15 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:04:15 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:07:36 - src.logger - INFO - Logging initialized
+2025-08-21 10:07:36 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:07:36 - src.logger - INFO - Logging initialized
+2025-08-21 10:07:36 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:07:36 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:07:36 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:07:37 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:07:37 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:48:02 - src.logger - INFO - Logging initialized
+2025-08-21 10:48:02 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:48:02 - src.logger - INFO - Logging initialized
+2025-08-21 10:48:02 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:48:03 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:48:03 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:48:04 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:48:04 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:52:07 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:07 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:52:07 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:07 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:52:07 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:52:07 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:52:08 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:52:08 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:52:08 - src.shopware_client - ERROR - Failed to get country ID for DE: 401 Client Error: Unauthorized for url: https://spotmarkt.meinvme.de/api/country
+2025-08-21 10:52:08 - src.sync_service - ERROR - Failed to process user florian.lenz@einrichtungspartnerring.com: Failed to get country ID for address update
+2025-08-21 10:52:08 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 0, Failed: 1
+2025-08-21 10:52:13 - src.logger - INFO - Sync completed successfully: 0 users created, 0 already existed
+2025-08-21 10:52:19 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:19 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:52:19 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:19 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:52:20 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:52:20 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:52:20 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:52:20 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:52:21 - src.shopware_client - ERROR - Failed to get country ID for DE: 401 Client Error: Unauthorized for url: https://spotmarkt.meinvme.de/api/country
+2025-08-21 10:52:21 - src.sync_service - ERROR - Failed to process user florian.lenz@einrichtungspartnerring.com: Failed to get country ID for address update
+2025-08-21 10:52:21 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 0, Failed: 1
+2025-08-21 10:52:35 - src.logger - INFO - Sync completed successfully: 0 users created, 0 already existed
+2025-08-21 10:52:40 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:40 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:52:40 - src.logger - INFO - Logging initialized
+2025-08-21 10:52:40 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:52:41 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:52:41 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:52:41 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:52:41 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:52:42 - src.shopware_client - ERROR - Failed to get country ID for DE: 401 Client Error: Unauthorized for url: https://spotmarkt.meinvme.de/api/country
+2025-08-21 10:52:42 - src.sync_service - ERROR - Failed to process user florian.lenz@einrichtungspartnerring.com: Failed to get country ID for address update
+2025-08-21 10:52:42 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 0, Failed: 1
+2025-08-21 10:52:42 - src.logger - INFO - Sync completed successfully: 0 users created, 0 already existed
+2025-08-21 10:54:01 - src.logger - INFO - Logging initialized
+2025-08-21 10:54:01 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:54:01 - src.logger - INFO - Logging initialized
+2025-08-21 10:54:01 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:54:01 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:54:01 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:54:02 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:54:02 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:55:40 - src.logger - INFO - Logging initialized
+2025-08-21 10:55:40 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 10:55:40 - src.logger - INFO - Logging initialized
+2025-08-21 10:55:40 - src.logger - INFO - Initializing sync service...
+2025-08-21 10:55:40 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 10:55:40 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 10:55:41 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 10:55:41 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 10:55:46 - src.shopware_client - INFO - Successfully created customer: 4711
+2025-08-21 10:55:48 - src.sync_service - INFO - Created new user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 10:55:48 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 1, Failed: 0
+2025-08-21 10:55:48 - src.logger - INFO - Sync completed successfully: 1 users created, 0 already existed
+2025-08-21 11:00:17 - src.logger - INFO - Logging initialized
+2025-08-21 11:00:17 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:00:17 - src.logger - INFO - Logging initialized
+2025-08-21 11:00:17 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:00:17 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:00:17 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:00:17 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:00:17 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 11:14:15 - src.logger - INFO - Logging initialized
+2025-08-21 11:14:15 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:14:15 - src.logger - INFO - Logging initialized
+2025-08-21 11:14:15 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:14:16 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:14:16 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:14:16 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:14:16 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 11:14:16 - src.sync_service - ERROR - Failed to process user florian.lenz@einrichtungspartnerring.com.dev: ShopwareClient.update_customer() missing 1 required positional argument: 'existing_customer'
+2025-08-21 11:14:16 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 0, Failed: 1
+2025-08-21 11:14:16 - src.logger - INFO - Sync completed successfully: 0 users created, 0 already existed
+2025-08-21 11:16:20 - src.logger - INFO - Logging initialized
+2025-08-21 11:16:20 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:16:20 - src.logger - INFO - Logging initialized
+2025-08-21 11:16:20 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:16:20 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:16:20 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:16:21 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:16:21 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 11:16:23 - src.sync_service - ERROR - Failed to process user florian.lenz@einrichtungspartnerring.com.dev: 'defaultBillingAddressId'
+2025-08-21 11:16:23 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 0, Failed: 1
+2025-08-21 11:16:23 - src.logger - INFO - Sync completed successfully: 0 users created, 0 already existed
+2025-08-21 11:16:27 - src.logger - INFO - Logging initialized
+2025-08-21 11:16:27 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:16:27 - src.logger - INFO - Logging initialized
+2025-08-21 11:16:27 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:16:27 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:16:27 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:16:28 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:16:28 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 11:17:09 - src.logger - INFO - Logging initialized
+2025-08-21 11:17:09 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:17:09 - src.logger - INFO - Logging initialized
+2025-08-21 11:17:09 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:17:09 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:17:09 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:17:10 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:17:10 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-21 11:17:58 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-21 11:17:59 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 11:17:59 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 1, Created: 0, Failed: 0
+2025-08-21 11:17:59 - src.logger - INFO - Sync completed successfully: 0 users created, 1 already existed
+2025-08-21 11:24:19 - src.logger - INFO - Logging initialized
+2025-08-21 11:24:19 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:24:19 - src.logger - INFO - Logging initialized
+2025-08-21 11:24:19 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:24:19 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:24:19 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:24:20 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:25:06 - src.logger - INFO - Logging initialized
+2025-08-21 11:25:06 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:25:06 - src.logger - INFO - Logging initialized
+2025-08-21 11:25:06 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:25:07 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:25:07 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:25:07 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:25:12 - src.sync_service - INFO - Processing 2 users from admin panel
+2025-08-21 11:25:12 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-21 11:25:12 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 11:26:05 - src.logger - INFO - Logging initialized
+2025-08-21 11:26:05 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:26:05 - src.logger - INFO - Logging initialized
+2025-08-21 11:26:05 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:26:05 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:26:05 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:26:06 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:26:06 - src.sync_service - INFO - Processing 2 users from admin panel
+2025-08-21 11:26:06 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-21 11:26:06 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 11:26:57 - src.shopware_client - INFO - Successfully created ZR customer: 4711
+2025-08-21 11:28:25 - src.sync_service - ERROR - Synchronization failed: 'AdminPanelZrContact' object has no attribute 'eMailadresse'
+2025-08-21 11:28:25 - src.logger - ERROR - Sync failed: 'AdminPanelZrContact' object has no attribute 'eMailadresse'
+2025-08-21 11:29:35 - src.logger - INFO - Logging initialized
+2025-08-21 11:29:35 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:29:35 - src.logger - INFO - Logging initialized
+2025-08-21 11:29:35 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:29:35 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:29:35 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:29:36 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:29:36 - src.sync_service - INFO - Processing 2 users from admin panel
+2025-08-21 11:29:36 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-21 11:29:36 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 11:29:37 - src.shopware_client - INFO - Successfully updated ZR customer: 4711
+2025-08-21 11:29:37 - src.sync_service - INFO - Updated existing user: zr4711@einrichtungspartnerring.com
+2025-08-21 11:29:37 - src.sync_service - INFO - Synchronization completed. Total: 2, Updated: 2, Created: 0, Failed: 0
+2025-08-21 11:29:37 - src.logger - INFO - Sync completed successfully: 0 users created, 2 already existed
+2025-08-21 11:44:10 - src.logger - INFO - Logging initialized
+2025-08-21 11:44:10 - src.logger - INFO - Running sync once and exiting...
+2025-08-21 11:44:10 - src.logger - INFO - Logging initialized
+2025-08-21 11:44:10 - src.logger - INFO - Initializing sync service...
+2025-08-21 11:44:10 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-21 11:44:10 - src.sync_service - INFO - Starting user synchronization
+2025-08-21 11:44:11 - src.admin_panel_client - INFO - Successfully fetched 3139 contacts from admin panel
+2025-08-21 11:44:11 - src.sync_service - INFO - Processing 2 users from admin panel
+2025-08-21 11:44:12 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-21 11:44:12 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-21 11:44:13 - src.shopware_client - INFO - Successfully updated ZR customer: 4711
+2025-08-21 11:44:13 - src.sync_service - INFO - Updated existing user: zr4711@einrichtungspartnerring.com
+2025-08-21 11:44:13 - src.sync_service - INFO - Synchronization completed. Total: 2, Updated: 2, Created: 0, Failed: 0
+2025-08-21 11:44:13 - src.logger - INFO - Sync completed successfully: 0 users created, 2 already existed

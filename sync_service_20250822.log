@@ -1,0 +1,174 @@
+2025-08-22 17:04:16 - src.logger - INFO - Logging initialized
+2025-08-22 17:04:16 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:04:16 - src.logger - INFO - Logging initialized
+2025-08-22 17:04:16 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:04:16 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:04:16 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:04:17 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:04:17 - src.admin_panel_client - ERROR - Failed to parse contacts data: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:04:17 - src.sync_service - ERROR - Synchronization failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:04:17 - src.logger - ERROR - Sync failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:04:40 - src.logger - INFO - Logging initialized
+2025-08-22 17:04:40 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:04:40 - src.logger - INFO - Logging initialized
+2025-08-22 17:04:40 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:04:40 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:04:40 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:04:41 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:04:41 - src.admin_panel_client - ERROR - Failed to parse contacts data: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:04:41 - src.sync_service - ERROR - Synchronization failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:04:41 - src.logger - ERROR - Sync failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:06:51 - src.logger - INFO - Logging initialized
+2025-08-22 17:06:51 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:06:51 - src.logger - INFO - Logging initialized
+2025-08-22 17:06:51 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:06:51 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:06:51 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:06:51 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:06:51 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-22 17:07:57 - src.logger - INFO - Logging initialized
+2025-08-22 17:07:57 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:07:57 - src.logger - INFO - Logging initialized
+2025-08-22 17:07:57 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:07:57 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:07:57 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:07:58 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:07:58 - src.admin_panel_client - ERROR - Failed to parse contacts data: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:07:58 - src.sync_service - ERROR - Synchronization failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:07:58 - src.logger - ERROR - Sync failed: 1 validation error for AdminPanelUser
+entraID
+  Field required [type=missing, input_value={'vorname': 'Florian', 'n...chrift;Lieferanschrift'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-08-22 17:08:17 - src.logger - INFO - Logging initialized
+2025-08-22 17:08:17 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:08:17 - src.logger - INFO - Logging initialized
+2025-08-22 17:08:17 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:08:17 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:08:17 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:08:18 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:08:18 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-22 17:09:01 - src.logger - INFO - Logging initialized
+2025-08-22 17:09:01 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:09:01 - src.logger - INFO - Logging initialized
+2025-08-22 17:09:01 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:09:01 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:09:01 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:09:02 - src.admin_panel_client - INFO - Successfully fetched 2934 contacts from admin panel
+2025-08-22 17:09:02 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-22 17:09:09 - src.shopware_client - INFO - Successfully updated customer: 4711
+2025-08-22 17:09:09 - src.sync_service - INFO - Updated existing user: florian.lenz@einrichtungspartnerring.com.dev
+2025-08-22 17:09:09 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 1, Created: 0, Failed: 0
+2025-08-22 17:09:09 - src.logger - INFO - Sync completed successfully: 0 users created, 1 already existed
+2025-08-22 17:09:09 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:09:18 - src.admin_panel_client - ERROR - Failed to fetch ZR contacts from admin panel: 405 Client Error: Method Not Allowed for url: https://staging.admpnl.meinvme.de/api/contacts/list_zrcontacts_gs
+2025-08-22 17:09:40 - src.logger - INFO - Logging initialized
+2025-08-22 17:09:40 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:09:40 - src.logger - INFO - Logging initialized
+2025-08-22 17:09:40 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:09:41 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:09:41 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:10:06 - src.logger - INFO - Logging initialized
+2025-08-22 17:10:06 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:10:06 - src.logger - INFO - Logging initialized
+2025-08-22 17:10:06 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:10:06 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:10:06 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:10:18 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:10:31 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:11:56 - src.logger - INFO - Logging initialized
+2025-08-22 17:11:56 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:11:56 - src.logger - INFO - Logging initialized
+2025-08-22 17:11:56 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:11:56 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:11:56 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:11:57 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:12:02 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:12:10 - src.sync_service - ERROR - Failed to process ZR customer 112212: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:15 - src.sync_service - ERROR - Failed to process ZR customer 112213: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:15 - src.sync_service - ERROR - Failed to process ZR customer 112214: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:15 - src.sync_service - INFO - ZR synchronization completed. Total: 3, Updated: 0, Created: 0, Failed: 3
+2025-08-22 17:12:15 - src.logger - INFO - ZR Sync completed successfully: 0 ZR customers created, 0 already existed
+2025-08-22 17:12:25 - src.logger - INFO - Logging initialized
+2025-08-22 17:12:25 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:12:25 - src.logger - INFO - Logging initialized
+2025-08-22 17:12:25 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:12:25 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:12:25 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:12:26 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:12:26 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:12:26 - src.sync_service - ERROR - Failed to process ZR customer 112212: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:27 - src.sync_service - ERROR - Failed to process ZR customer 112213: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:27 - src.sync_service - ERROR - Failed to process ZR customer 112214: 'AdminPanelZrContact' object has no attribute 'entraID'
+2025-08-22 17:12:27 - src.sync_service - INFO - ZR synchronization completed. Total: 3, Updated: 0, Created: 0, Failed: 3
+2025-08-22 17:12:27 - src.logger - INFO - ZR Sync completed successfully: 0 ZR customers created, 0 already existed
+2025-08-22 17:12:46 - src.logger - INFO - Logging initialized
+2025-08-22 17:12:46 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:12:46 - src.logger - INFO - Logging initialized
+2025-08-22 17:12:46 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:12:46 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:12:46 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:12:46 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:12:46 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:13:28 - src.logger - INFO - Logging initialized
+2025-08-22 17:13:28 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:13:28 - src.logger - INFO - Logging initialized
+2025-08-22 17:13:28 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:13:29 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:13:29 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:13:29 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:13:29 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:14:29 - src.shopware_client - INFO - Successfully created ZR customer: 112212
+2025-08-22 17:14:30 - src.sync_service - INFO - Created new ZR customer: 112212
+2025-08-22 17:14:31 - src.shopware_client - INFO - Successfully created ZR customer: 112213
+2025-08-22 17:14:31 - src.sync_service - INFO - Created new ZR customer: 112213
+2025-08-22 17:14:32 - src.shopware_client - INFO - Successfully created ZR customer: 112214
+2025-08-22 17:14:32 - src.sync_service - INFO - Created new ZR customer: 112214
+2025-08-22 17:14:32 - src.sync_service - INFO - ZR synchronization completed. Total: 3, Updated: 0, Created: 3, Failed: 0
+2025-08-22 17:14:32 - src.logger - INFO - ZR Sync completed successfully: 3 ZR customers created, 0 already existed
+2025-08-22 17:17:53 - src.logger - INFO - Logging initialized
+2025-08-22 17:17:53 - src.logger - INFO - Running sync once and exiting...
+2025-08-22 17:17:53 - src.logger - INFO - Logging initialized
+2025-08-22 17:17:53 - src.logger - INFO - Initializing sync service...
+2025-08-22 17:17:54 - src.shopware_client - INFO - Successfully authenticated with Shopware API
+2025-08-22 17:17:54 - src.sync_service - INFO - Starting user synchronization
+2025-08-22 17:17:54 - src.admin_panel_client - INFO - Successfully fetched 2979 contacts from admin panel
+2025-08-22 17:18:03 - src.sync_service - INFO - Processing 1 users from admin panel
+2025-08-22 17:18:05 - src.shopware_client - INFO - Successfully created customer: 112213
+2025-08-22 17:18:05 - src.sync_service - INFO - Created new user: thomas.kauer@kauer.ch
+2025-08-22 17:18:05 - src.sync_service - INFO - Synchronization completed. Total: 1, Updated: 0, Created: 1, Failed: 0
+2025-08-22 17:18:05 - src.logger - INFO - Sync completed successfully: 1 users created, 0 already existed
+2025-08-22 17:18:05 - src.sync_service - INFO - Starting ZR customer synchronization
+2025-08-22 17:18:05 - src.admin_panel_client - INFO - Successfully fetched 3 ZR contacts from admin panel
+2025-08-22 17:18:05 - src.sync_service - INFO - Processing 3 ZR contacts from admin panel
+2025-08-22 17:18:06 - src.shopware_client - INFO - Successfully updated ZR customer: 112212
+2025-08-22 17:18:06 - src.sync_service - INFO - Updated existing ZR customer: 112212
+2025-08-22 17:18:07 - src.shopware_client - INFO - Successfully updated ZR customer: 112213
+2025-08-22 17:18:07 - src.sync_service - INFO - Updated existing ZR customer: 112213
+2025-08-22 17:18:07 - src.shopware_client - INFO - Successfully updated ZR customer: 112214
+2025-08-22 17:18:07 - src.sync_service - INFO - Updated existing ZR customer: 112214
+2025-08-22 17:18:07 - src.sync_service - INFO - ZR synchronization completed. Total: 3, Updated: 3, Created: 0, Failed: 0
+2025-08-22 17:18:07 - src.logger - INFO - ZR Sync completed successfully: 0 ZR customers created, 3 already existed
